@@ -1,0 +1,2 @@
+I am making a role based project (RBAC) app
+the user’s role (such as "user" or "admin") determines what part of the website or application they can access.
